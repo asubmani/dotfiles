@@ -1,0 +1,130 @@
+{
+    "git.ignoreMissingGitWarning": true,
+    "colorInfo.fields": ["hex","rgb","cmyk","lab","alpha","preview-xl"],
+    "colorInfo.languages": [
+        {
+            "selector": "css",
+            "colors": "css"
+        },
+        {
+            "selector": "sass",
+            "colors": "css"
+        },
+        {
+            "selector": "scss",
+            "colors": "css"
+        },
+        {
+            "selector": "less",
+            "colors": "css"
+        },
+        {
+            "selector" : "json",
+            "colors"   : "css"
+        },
+        {
+            "selector" : "toml",
+            "colors"   : "css"
+        },
+        {
+            "selector" : "yaml",
+            "colors"   : "css"
+        },
+    ],
+    "window.zoomLevel": 0,
+    "editor.cursorBlinking": "expand",
+    "terminal.integrated.cursorBlinking": true,
+    "editor.renderWhitespace": "all",
+    "editor.tabSize": 2,
+    "editor.fontSize": 20,
+    "editor.find.autoFindInSelection": true,
+    "editor.lineHeight": 25,
+    "peacock.favoriteColors": [
+        {
+            "name": "Angular Red",
+            "value": "#b52e31"
+        },
+        {
+            "name": "Auth0 Orange",
+            "value": "#eb5424"
+        },
+        {
+            "name": "Azure Blue",
+            "value": "#007fff"
+        },
+        {
+            "name": "C# Purple",
+            "value": "#68217A"
+        },
+        {
+            "name": "Gatsby Purple",
+            "value": "#639"
+        },
+        {
+            "name": "Go Cyan",
+            "value": "#5dc9e2"
+        },
+        {
+            "name": "Java Blue-Gray",
+            "value": "#557c9b"
+        },
+        {
+            "name": "JavaScript Yellow",
+            "value": "#f9e64f"
+        },
+        {
+            "name": "Mandalorian Blue",
+            "value": "#1857a4"
+        },
+        {
+            "name": "Node Green",
+            "value": "#215732"
+        },
+        {
+            "name": "React Blue",
+            "value": "#00b3e6"
+        },
+        {
+            "name": "Something Different",
+            "value": "#832561"
+        },
+        {
+            "name": "Vue Green",
+            "value": "#42b883"
+        }
+    ],
+    "window.titleBarStyle": "custom",
+    //"terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+    "workbench.colorCustomizations": {
+        "terminal.foreground": "#E1E1E1",
+        "terminal.background": "#141E43",
+        "terminal.ansiBrightWhite": "#FFFFFF",
+        "terminal.ansiBrightBlack": "#3F5648",
+        "terminal.ansiBrightRed": "#FF3242",
+        "terminal.ansiBrightYellow": "#FFB929",
+        "terminal.ansiYellow": "#FFB929",
+        "terminal.ansiBrightMagenta": "#FF37FF"
+    },
+    "window.enableMenuBarMnemonics": true,
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "'Cascadia Code,'Fira Code',Consolas, monospace",
+    "terminal.integrated.fontSize": 16,
+    "azure.resourceFilter": [
+        "d9217073-9527-487c-9687-b6bbd93ed621/c1c31993-d500-47b6-bdb2-f921bbda96c6"
+    ],
+    "azureFunctions.enableSlots": true,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\PowerShell\\6\\pwsh.exe",
+    "workbench.colorTheme": "Dracula",
+    "vs-kubernetes": {
+        "vs-kubernetes.helm-path": "/home/nandi/.vs-kubernetes/tools/helm/linux-amd64/helm",
+        "vs-kubernetes.draft-path": "/home/nandi/.vs-kubernetes/tools/draft/linux-amd64/draft",
+        "vs-kubernetes.kubectl-path": "/home/nandi/.vs-kubernetes/tools/kubectl/kubectl",
+        "vs-kubernetes.minikube-path": "/home/nandi/.vs-kubernetes/tools/minikube/linux-amd64/minikube"
+    },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "[yaml]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
+    "editor.fontWeight": "400"
+}
